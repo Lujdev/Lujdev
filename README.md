@@ -12,7 +12,7 @@
 
 ##### Bio
 
-- 🏢 I'm currently working **freelancer** and other times in the family business 👨‍👩‍👧‍👦
+- 🏢 I'm currently working **freelancer** and other times in the **family business** 👨‍👩‍👧‍👦
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`
 - 👨‍💻 Learning all **Python**
 - 🏀 I love to play **basketball and watch series** 🎞🍿
