@@ -12,10 +12,10 @@
 
 ##### Bio
 
-• 🏢 I'm currently working Freelancer and other times in thefamily business 👨‍👩‍👧‍👦
-• ⚙️ I use daily: .php, .js, .html, .css
-• 👨‍💻 Learning all Python
-• 🏀 I love to play basketball and watch series 🎞🍿
+- 🏢 I'm currently working Freelancer and other times in thefamily business 👨‍👩‍👧‍👦
+- ⚙️ I use daily: .php, .js, .html, .css
+- 👨‍💻 Learning all Python
+- 🏀 I love to play basketball and watch series 🎞🍿
     
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em><b>I love connecting with different people. I accept any suggestion or constructive review. </b></em>
 
