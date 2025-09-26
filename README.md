@@ -83,8 +83,8 @@ Instituto Universitario Politécnico Santiago Mariño
 
 ## 🌐 Let's Connect  
 
-🌎 [Portfolio](https://portfolio-luisjm.netlify.app/)  
-💼 [LinkedIn](https://www.linkedin.com/in/lmolinawd/)  
+🌎 [Portfolio](https://luisjdev.site)  
+💼 [LinkedIn](https://www.linkedin.com/in/lmolinawd)  
 
 ---
 
