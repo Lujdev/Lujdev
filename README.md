@@ -44,22 +44,22 @@ I’m passionate about **clean code, automation, and agile development** that dr
 
 ## 💼 Experience  
 
-- **Full Stack Developer | IA2030 C.A** *(Oct 2021 – Jan 2025, Nueva Esparta)*  
+- **Full Stack Developer | IA2030 C.A** *(Oct 2021 – Jan 2025, Nueva Esparta – Venezuela)*  
   - Backend with **PHP/CakePHP**, frontend with **React/Next.js**  
   - Built **RESTful APIs** for third-party integrations  
   - Automated workflows with **Git & Docker**  
   - Developed scripts with **Node.js & Python**  
 
-- **Platform Analyst & SysAdmin | MegaMassive** *(Jan 2024 – Oct 2024, Caracas)*  
+- **Platform Analyst & SysAdmin | MegaMassive** *(Jan 2024 – Oct 2024, Caracas – Venezuela)*  
   - Managed **Linux & Windows servers** ensuring high availability  
   - Automated operational tasks with **Bash & PowerShell**  
   - Built an internal QR employee management app using **Next.js**  
 
-- **Freelance WordPress Developer | BaccBeauty** *(2019 – 2021, Remote)*  
+- **Freelance WordPress Developer | BaccBeauty** *(2019 – 2021, Remote – Venezuela)*  
   - Built custom **WordPress plugins** reducing load time by 15%  
   - Integrated **Google Analytics, MailChimp, Zapier**  
 
-- **Junior PHP Developer | Weclick Digital** *(2019, Remote)*  
+- **Junior PHP Developer | Weclick Digital** *(2019, Remote – Guatemala)*  
   - Developed **Yii2 modules & WordPress templates**  
   - API integrations (Google Maps, Social Media, Payment Gateways)  
 
