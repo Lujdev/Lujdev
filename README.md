@@ -75,8 +75,8 @@ Instituto Universitario Politécnico Santiago Mariño
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img height="180" src="https://gh-readme-luis-1.vercel.app/api?username=Lujdev&show_icons=true&theme=tokyonight&hide_border=true&v=1" />
-<img height="180" src="https://gh-readme-luis-1.vercel.app/api/top-langs/?username=Lujdev&layout=compact&theme=tokyonight&hide_border=true&v=1" />
+  <img height="180" src="https://gh-readme-luis-1.vercel.app/api?username=Lujdev&show_icons=true&theme=tokyonight&hide_border=true&v=2" />
+<img height="180" src="https://gh-readme-luis-1.vercel.app/api/top-langs/?username=Lujdev&layout=compact&theme=tokyonight&hide_border=true&v=2" />
 </p>
 
 ---
