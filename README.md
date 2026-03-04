@@ -17,7 +17,7 @@
 ---
 
 ## 🚀 About Me  
-I’m a **Systems Engineer and Full Stack Developer** with 3+ years of experience building **web applications, RESTful APIs, and scalable cloud solutions**.  
+I’m a **Systems Engineer and Full Stack Developer** with 4+ years of experience building **web applications, RESTful APIs, and scalable cloud solutions**.  
 Specialized in **PHP, JavaScript, React, Next.js, and WordPress**, I enjoy creating custom solutions, optimizing performance, and integrating third-party services.  
 I’m passionate about **clean code, automation, and agile development** that drives real business impact.  
 
