@@ -1,7 +1,8 @@
 ## Hi, I'm [Luis Molina] <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 💻 **Full Stack Developer | WordPress Developer**  
-📍 Caracas, Venezuela  
+📍 Caracas, Venezuela 
+📍 Bogota, Colombia  
 📧 luisjmolina29@gmail.com | 📱 +58 424-1914514  
 
 <p align="center">
